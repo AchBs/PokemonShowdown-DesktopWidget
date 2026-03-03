@@ -1,0 +1,15 @@
+{
+  "name": "pokemon-showdown-app",
+  "version": "1.0.0",
+  "description": "A small always-on-top floating window for Pokémon Showdown",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": ["pokemon", "showdown", "electron"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^29.0.0"
+  }
+}
