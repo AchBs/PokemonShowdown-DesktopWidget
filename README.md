@@ -1,6 +1,12 @@
 # Pokémon Showdown — Floating Desktop App
 
-A tiny, always-on-top Electron window that loads [Pokémon Showdown](https://play.pokemonshowdown.com) in the bottom-right corner of your screen.
+A tiny, always-on-top Electron window that loads [Pokémon Showdown](https://play.pokemonshowdown.com) in the bottom-right corner of your screen — and fades to 80% transparent when your mouse leaves it.
+
+---
+
+## Preview
+
+![App preview](Example.png)
 
 ---
 
