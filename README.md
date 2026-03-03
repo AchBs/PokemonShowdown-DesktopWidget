@@ -53,8 +53,8 @@ The app window will appear in the **bottom-right corner** of your primary displa
 
 ## Window controls (custom title bar)
 
-| Button | Colour | Action |
-|--------|--------|--------|
+| Button | Action |
+|--------|-------|
 | 🟢 Green | Reload the Showdown page |
 | 🟡 Yellow | Minimise to taskbar/dock |
 | 🔴 Red | Close the app |
